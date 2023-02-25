@@ -7,5 +7,5 @@
 
 Acceptance Criteria:
 
-- Use `Prompt` for Confirmation Dialog.
+- Use `confirm` for Confirmation Dialog.
 - Message text should be exactly the same as given in the question.
